@@ -1,0 +1,334 @@
+commit 2727e229b692d3ca98131b4b4ab055523f2affbf
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Sat Sep 28 01:21:11 2013 +0200
+
+    - Update Travis requirement: Rake tasks.
+
+commit d39ed12b8e31eb59a39fd155b2f186f8e6540862
+Merge: 63d92a2 2f9da76
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Fri Sep 27 08:03:44 2013 +0200
+
+    - Merge branch 'feature-travis' into develop
+
+commit 2f9da76a16c449c6cef94c35637cee25600a221f
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Fri Sep 27 08:03:11 2013 +0200
+
+    - Update Travis requirement: .travis.yml.
+
+commit 63d92a22cde8a3fd381b72fe7e76d5bbdbc5eae5
+Merge: 709e632 25eace4
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 22:55:38 2013 +0200
+
+    - Merge branch 'release-1.0.travis' into develop
+
+commit 25eace43ee1a00edb9fdfe9895c7f90c4132c6d7
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 22:54:47 2013 +0200
+
+    - Bumped to version 1.0.travis.
+
+commit 709e632c4d7ba83a547bff6cb230851130c9adef
+Merge: 9327f9e 91ec1ea
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 22:53:00 2013 +0200
+
+    - Merge branch 'feature-domain-logic' into develop
+
+commit 91ec1ea3820890c427ba0e290a6c556556d26cc4
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 22:52:47 2013 +0200
+
+    - Update Travis requirement: Others.
+
+commit 9327f9e517fa85400b0be3721bcc1d731f468aeb
+Merge: e9dc9d4 6f7e832
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 22:03:14 2013 +0200
+
+    - Merge branch 'release-1.0.6' into develop
+
+commit 6f7e832aef25bd8cdd340a9aac590d605fbaf91b
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 22:02:39 2013 +0200
+
+    - Bumped to version 1.0.6.
+
+commit e9dc9d4f93eaf7e50f077e9d8c73799b0445d0f4
+Merge: 417fe4e 6c6f12f
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 22:01:33 2013 +0200
+
+    - Merge branch 'feature-domain-logic' into develop
+
+commit 6c6f12fd9ad8b46873c0a09571a530b10b0647c6
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 22:01:12 2013 +0200
+
+    - Add gem to RubyGems.org.
+
+commit 417fe4ee24bf84d8b1d5291d55cc0a7c74ff8a03
+Merge: 1a3c762 e89dc3b
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 20:19:17 2013 +0200
+
+    - Merge branch 'release-1.0.5' into develop
+
+commit e89dc3b734ebb0a4bf83494e33542be832ced2e9
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 20:18:46 2013 +0200
+
+    - Bumped to version 1.0.5.
+
+commit 1a3c7629c1532b9f2c300ea8645846476c8f2b44
+Merge: 981eba1 3cef232
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 20:17:19 2013 +0200
+
+    - Merge branch 'feature-domain-logic' into develop
+
+commit 3cef2321373c203128f56a0a6de28ae5ffc658ff
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 20:17:13 2013 +0200
+
+    - Update Travis requirement: Gemspec.
+
+commit 981eba12d97a4c69661dbbba58da0770e9c8e3fe
+Merge: 613916c ca6074f
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 19:47:48 2013 +0200
+
+    - Merge branch 'release-1.0.4' into develop
+
+commit ca6074f5f922632795276c5cc2c7217cf5d283af
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 19:46:53 2013 +0200
+
+    - Bumped to version 1.0.4.
+
+commit 613916c501024f57d3f7db436500452540ddb7f3
+Merge: fa46190 5adbf5e
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 19:45:42 2013 +0200
+
+    - Merge branch 'feature-domain-logic' into develop
+
+commit 5adbf5eb8091ddf50d43f24c8956227e0aa7dde9
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 19:45:02 2013 +0200
+
+    - Update Travis requirement: Cue is full.
+
+commit fa461904ab84a1ec80a883e78a5f2ab65e744519
+Merge: 84602d1 952f398
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 19:15:54 2013 +0200
+
+    - Merge branch 'release-1.0.3' into develop
+
+commit 952f398b1dec96f495ba49d0c77e70f6a3f446a0
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 19:15:24 2013 +0200
+
+    - Bumped to version 1.0.3.
+
+commit 84602d1687dad402d3c67981eb4851ac4b26fef9
+Merge: 9b415b3 4120a0c
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 19:14:27 2013 +0200
+
+    - Merge branch 'feature-domain-logic' into develop
+
+commit 4120a0c1a36c2b04ba9e4d156309ddb155ffbe89
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 19:14:16 2013 +0200
+
+    - Update Travis requirement: Gemfile.
+
+commit 9b415b336ca4e02531eed6074acdf07718c10afa
+Merge: 967f99f a753b04
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 15:21:56 2013 +0200
+
+    - Merge branch 'release-1.0.2' into develop
+
+commit a753b047ab8ac76aa64087eb56abb1f66bfaf3d8
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 15:20:32 2013 +0200
+
+    - Bumped to version 1.0.2.
+
+commit 967f99fc4f8efe70a91736a8e3e0ea0922b2b2bb
+Merge: 0c5df12 e8339fd
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 15:19:10 2013 +0200
+
+    - Merge branch 'feature-fix-travis-requirements' into develop
+
+commit e8339fdf620cff0f960d313dda35594826e2a005
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 15:18:40 2013 +0200
+
+    - Update Travis requirement: Gemfile.lock.
+
+commit 0c5df120627a6bfbf6d6c39a4fa6c5d5f3d56a77
+Merge: 31883be ad5c834
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 14:20:18 2013 +0200
+
+    Merge branch 'release-1.0.1' into develop
+
+commit ad5c8346f3543c6506958730f233c9cd4bb41546
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 14:20:09 2013 +0200
+
+    - Bumped to version 1.0.1.
+
+commit 31883bee7c7721ada0d72b30502ee3796c6fd733
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 14:18:54 2013 +0200
+
+    - Add Travis support.
+    - Follow rails engine naming version.
+
+commit 2162dcc8370053d4ed709fd2560ab674efd93cf6
+Merge: c0b0726 e4f3979
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 14:16:33 2013 +0200
+
+    - Merge branch 'release-1.0.0' into develop
+
+commit e4f39790cccb7a14046c98315484184b84f4ab2f
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 14:12:12 2013 +0200
+
+    - Bumped to version 1.0.0.
+
+commit c0b0726829f650de63563a5ecaf5dbcd5a025023
+Merge: 8fa5f0d 012db8d
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 14:11:24 2013 +0200
+
+    Merge branch 'feature-base-integration' into develop
+
+commit 012db8d91b27e230cc8e88dfad83e6e26bf1fd5d
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 26 14:11:13 2013 +0200
+
+    - Add cucumber support.
+    - Update README.md with an important advice about gem development status.
+    - Clean Rakefile and add separate tasks.
+
+commit 56f3b8c4cd7e0c11d3ca16da04d5619ebce292f9
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 12 23:00:08 2013 +0200
+
+    - Update .gitignore file.
+
+commit 4643921bfa2c8c4c460c1e34668a295449c31340
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 12 04:37:40 2013 +0200
+
+    - Fix documentation.
+
+commit 0d5a2837fbf5e16bd09a4db19b7989df37d69f4f
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 12 03:50:07 2013 +0200
+
+    - Add configuration values to hstore attributes.
+
+commit d0374b432a2b396cdf25aebab52012934e8cc755
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Thu Sep 12 00:45:18 2013 +0200
+
+    - Update spec_file with new simplecov configuration.
+    - Add new code metrics gem.
+
+commit f29c436c380e40a597141c42c815440a15da3ee7
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Tue Sep 10 09:13:40 2013 +0200
+
+    - Refine tests.
+    - Add RSpec formatters.
+
+commit 925dfd38b668923d2ce4134f1d8f4e3f452371f0
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Tue Sep 10 05:55:43 2013 +0200
+
+    - Refactorize config in favor of Virtus, instead of ActiveSupport::Configuration use.
+
+commit c4f019f82a03a070db10544e68e2eafe597b5100
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Sat Sep 7 20:55:42 2013 +0200
+
+    - Exclude API docs from gitignore.
+
+commit 950972f61d0b38725f0fc7e27d8f1d91a0adc0b4
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Sat Sep 7 10:19:09 2013 +0200
+
+    - Add engine associations.
+
+commit 8fa5f0db0033720eeb08f36c59a879389f611aa4
+Merge: 0e56ba5 b76d82b
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Sat Sep 7 06:11:28 2013 +0200
+
+    Merge branch 'feature-hstore' into develop
+
+commit b76d82b8f3af6f3cc683064435d2aeeff18bf3cc
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Sat Sep 7 06:11:21 2013 +0200
+
+    - Adapt tests creating a new entity in spec/dummy environment.
+
+commit 5d6de2136269dc69fde32a451459c92e76237578
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Sat Sep 7 05:46:08 2013 +0200
+
+    - Add tests with full coverage.
+
+commit e922c259178d16e67dc36b5a46085b23bcd275a1
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Sat Sep 7 04:35:44 2013 +0200
+
+    - Add documentation.
+
+commit 2f254a4c44f551a538aea2fbbf1e708f850c730c
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Sat Sep 7 04:09:03 2013 +0200
+
+    - Add automatic hstore accessors.
+
+commit 1a0a1e6fd38e5c14c5553fe06806423997d289dc
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Sat Sep 7 01:50:31 2013 +0200
+
+    - Prepare code to adapt PostgreSQL hstore feature to handle metatags.
+
+commit 0e56ba5e28b7d63ba5dedf8dd3877652f7c7c7a9
+Merge: 7436562 1f8b399
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Sat Sep 7 01:05:11 2013 +0200
+
+    Merge branch 'feature-postgresql' into develop
+
+commit 1f8b3997ceda5031b4f392657217c0962c152338
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Sat Sep 7 01:05:06 2013 +0200
+
+    - Add postgresql support.
+
+commit d0c0725cd010a75df43da615ab4d4eb3f6ba8304
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Fri Sep 6 21:02:00 2013 +0200
+
+    - Add base domain logic.
+
+commit 7436562027565f68d1b980767e5281426fc7f766
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Fri Sep 6 19:38:31 2013 +0200
+
+    - First sending.

@@ -1,0 +1,2 @@
+TM_RSPEC_OPTS      = '-rrspec/core/formatters/webkit'
+TM_RSPEC_FORMATTER = 'RSpec::Core::Formatters::WebKit'
